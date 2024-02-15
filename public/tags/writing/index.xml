@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>writing on Clem SK</title>
+    <link>https://clem-sk.dev/tags/writing/</link>
+    <description>Recent content in writing on Clem SK</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Wed, 14 Feb 2024 09:06:35 +0000</lastBuildDate>
+    <atom:link href="https://clem-sk.dev/tags/writing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Img Size in Md</title>
+      <link>https://clem-sk.dev/posts/img-size-in-md/</link>
+      <pubDate>Wed, 14 Feb 2024 09:06:35 +0000</pubDate>
+      <guid>https://clem-sk.dev/posts/img-size-in-md/</guid>
+      <description>Styling images in markdown I&amp;rsquo;ll refer to the StackOverflow answer on changing image size in md.
+The simplest and most free of dependencies is just to use a CSS class in a CSS file to style the image.
+This removes the need for markdown processors etc. that would (with more code) end up in the same place.
+In Hugo this would mean adding the styles to the assets folder and writing them up this way: img[alt=drawing] { width: 200px; }.</description>
+    </item>
+    <item>
+      <title>Writing Process</title>
+      <link>https://clem-sk.dev/posts/writing-process/</link>
+      <pubDate>Wed, 14 Feb 2024 08:24:15 +0000</pubDate>
+      <guid>https://clem-sk.dev/posts/writing-process/</guid>
+      <description>How this blog is created Making it easy I have previously tried blogging but my biggest obstacle was actually platforms used for blogging. I formerly had a WordPress blog that I barely used. While I would write in my note-taking apps I found the publishing process a pain which led me to write privately as an outlet.
+The biggest obstacle to keeping a blog is ease of getting stuff from thought to the internet.</description>
+    </item>
+  </channel>
+</rss>
