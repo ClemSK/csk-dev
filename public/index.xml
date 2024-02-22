@@ -14,8 +14,8 @@
       <pubDate>Wed, 14 Feb 2024 09:06:35 +0000</pubDate>
       <guid>https://clem-sk.dev/posts/img-size-in-md/</guid>
       <description>Styling images in markdown I&amp;rsquo;ll refer to the StackOverflow answer on changing image size in md.
-The simplest and most free of dependencies is just to use a CSS class in a CSS file to style the image.
-This removes the need for markdown processors etc. that would (with more code) end up in the same place.
+The simplest and dependency free method is just to use a CSS selector to style the image.
+This removes the need for markdown processors that would (with more code) end up in the same place.
 In Hugo this would mean adding the styles to the assets folder and writing them up this way: img[alt=drawing] { width: 200px; }.</description>
     </item>
     <item>
@@ -23,7 +23,7 @@ In Hugo this would mean adding the styles to the assets folder and writing them 
       <link>https://clem-sk.dev/posts/writing-process/</link>
       <pubDate>Wed, 14 Feb 2024 08:24:15 +0000</pubDate>
       <guid>https://clem-sk.dev/posts/writing-process/</guid>
-      <description>How this blog is created Making it easy I have previously tried blogging but my biggest obstacle was actually platforms used for blogging. I formerly had a WordPress blog that I barely used. While I would write in my note-taking apps I found the publishing process a pain which led me to write privately as an outlet.
+      <description>How this blog is created Making it easy I have previously tried blogging but my biggest obstacle was actually platforms used for blogging. Before knowing how to code, I formerly had a WordPress blog that I barely used. While I would write in my note-taking app, I found the publishing process a pain which led me to write privately as an outlet.
 The biggest obstacle to keeping a blog is ease of getting stuff from thought to the internet.</description>
     </item>
     <item>
@@ -36,24 +36,14 @@ When pasting, make sure to move the closing code fence to a new line to see the 
 ```mermaid sequenceDiagram participant Alice participant Bob Alice-&amp;gt;&amp;gt;John: Hello John, how are you?</description>
     </item>
     <item>
-      <title>On Getting Started</title>
-      <link>https://clem-sk.dev/posts/on-getting-started/</link>
-      <pubDate>Sun, 04 Feb 2024 01:25:58 +0000</pubDate>
-      <guid>https://clem-sk.dev/posts/on-getting-started/</guid>
-      <description>Why write with Hugo? focusing on the writing having lots of things pre-configured easy and fast to deploy sequenceDiagram participant Alice participant Bob Alice-&gt;&gt;John: Hello John, how are you? loop Healthcheck John-&gt;&gt;John: Fight against hypochondria end Note right of John: Rational thoughts prevail! John--&gt;&gt;Alice: Great! John-&gt;&gt;Bob: How about you? Bob--&gt;&gt;John: Jolly good! </description>
-    </item>
-    <item>
-      <title>Aboutme</title>
+      <title>Welcome!</title>
       <link>https://clem-sk.dev/aboutme/</link>
       <pubDate>Sat, 03 Feb 2024 21:14:55 +0000</pubDate>
       <guid>https://clem-sk.dev/aboutme/</guid>
-      <description>Welcome! &amp;lt;&amp;gt;Image here&amp;lt;&amp;gt;
-Why bother with a personal website? Why not just write on social media?
-This post captures it well
-Favorites These articles came out particularly well, and might provide some value to you, or help you get to know me a little better.
-&amp;lt;&amp;gt;Add articles here&amp;lt;&amp;gt;
-External brain I write to think and remember, explain to myself and others.
-I intended to learn in public and share the experience.</description>
+      <description>Why keep a personal site? Why not just write on social media?
+Personal sites offer a valuable space for self-expression and growth, distinct though not a social-media replacement. The process to publish is as simple as I could make it, leaving more room to think in long-form and do.
+I hope for discoveries and personal growth - this is my space to be curious, intentional, and hit publish.
+External brain I write to think, remember, explain to myself and others - in other words learn in public.</description>
     </item>
   </channel>
 </rss>

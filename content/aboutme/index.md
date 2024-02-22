@@ -4,10 +4,11 @@ date : 2024-02-03T21:14:55Z
 draft : false
 ---
 
-Why bother with a personal website? Why not just write on social media?
+Why keep a personal site? Why not just write on social media?
 
-[This post captures it well](https://matthiasott.com/notes/simple-truths-about-personal-websites)
+Personal sites offer a valuable space for self-expression and growth, distinct though not a social-media replacement. The process to publish is as simple as I could make it, leaving more room to think in long-form and do. 
 
+I hope for discoveries and personal growth - this is my space to be curious, intentional, and hit publish.
 
 ## External brain
 
@@ -16,13 +17,13 @@ I write to think, remember, explain to myself and others - in other words [learn
 ## How to read my site
 
 You can: 
-- Browse the [Tags](http://localhost:1313/tags/) topics
-- Go to [Posts](http://localhost:1313/posts/) to read the latest ones
-- Dive into the archives to view all posts in a timeline
+- Browse the [Tags](http://clem-sk.dev/tags/) topics
+- Go to [Posts](http://clem-sk.dev/posts/) to read the latest ones
+- Dive into the [Archives](http://clem-sk.dev/archives/) to view all posts in a timeline
 
 
 ## About this site
-What you read here are my learning notes, made public to share the journey. 
+What you read here are thoughts from my learning journey.
 
 When I want to reflect on a topic or write an article, I go through my notes and link them together. Often, I find that the links between notes stimulates further connections and associations. The virtuous cycle continues in this process, driven by my wandering curiosity.  
 

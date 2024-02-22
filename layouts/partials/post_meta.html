@@ -16,7 +16,7 @@ time.Format (default "January 2, 2006" site.Params.DateFormat)))) }}
 {{- if .Params.tags -}}
 {{- $tagLinks := slice -}}
 {{- range .Params.tags -}}
-{{- $tagLinks = $tagLinks | append (printf "<a href='/tags/%s/'>#%s</a>" (. | urlize) .) -}}
+{{- $tagLinks = $tagLinks | append (printf "<strong><a href='/tags/%s/'>#%s</a></strong>" (. | urlize) .) -}}
 {{- end }}
 {{- $scratch.Add "meta" (slice (delimit $tagLinks "&nbsp;")) }}
 {{- end }}

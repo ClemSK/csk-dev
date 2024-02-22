@@ -1,0 +1,76 @@
+:root {
+  /* # Default colors */
+  --background: rgb(6, 25, 35);
+  --foreground: rgb(229, 196, 158);
+
+  /* [colors.cursor] */
+  --text: rgb(6, 24, 34);
+  --cursor: rgb(254, 175, 60);
+
+  /* [colors.selection] */
+  --textB: rgb(255, 233, 215);
+  --backgroundB: rgb(38, 91, 117);
+
+  /* # Normal colors */
+  --black: rgb(39, 97, 129);
+  /* --black: rgb(29, 72, 95); */
+  --red: rgb(233, 71, 71);
+  /* --red: rgb(219, 102, 45); */
+  --green: rgb(0, 142, 171);
+  --yellow: rgb(254, 175, 60);
+  --blue: rgb(37, 90, 98);
+  --magenta: rgb(119, 219, 244);
+  --cyan: rgb(95, 177, 194);
+  --white: rgb(229, 196, 158);
+
+  /* # Bright colors */
+  --blackB: rgb(84, 93, 101);
+  --redB: rgb(221, 152, 138);
+  --greenB: rgb(115, 157, 168);
+  --yellowB: rgb(254, 218, 174);
+  --blueB: rgb(11, 199, 227);
+  --magentaB: rgb(198, 232, 241);
+  --cyanB: rgb(151, 185, 192);
+  --whiteB: rgb(255, 243, 215);
+
+  --gap: 24px;
+  --content-gap: 20px;
+  --nav-width: 1024px;
+  --main-width: 720px;
+  --header-height: 60px;
+  --footer-height: 60px;
+  --radius: 8px;
+  --theme: var(--whiteB);
+  --entry: var(--yellowB);
+  --primary: var(--black);
+  --secondary: var(--blue);
+  --tertiary: var(--magentaB);
+  --content: var(--text);
+  --code-block-bg: var(--black);
+  /* bug in light mode - need to override it */
+  --list: var(--whiteB);
+  --code-bg: var(--yellowB);
+  --navHover: var(--magentaB);
+  --border: var(--background);
+}
+
+.dark {
+  --theme: var(--background); /* Ansi 12 Color */
+  --entry: var(--black); /* Ansi 14 Color */
+  --primary: var(--yellow); /* Ansi 5 Color */
+  --secondary: var(--yellowB); /* Ansi 7 Color */
+  --tertiary: var(--backgroundB); /* Ansi 11 Color */
+  --content: var(--whiteB); /* Ansi 7 Color */
+  --code-block-bg: var(--black); /* Ansi 14 Color */
+  --code-bg: var(--blue); /* Ansi 7 Color */
+  --navHover: var(--green); /* Ansi 7 Color */
+  --border: var(--whiteB); /* Ansi 7 Color */
+}
+
+.list {
+  background: var(--list);
+}
+
+.dark.list {
+  background: var(--theme);
+}

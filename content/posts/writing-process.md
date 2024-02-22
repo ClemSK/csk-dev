@@ -29,9 +29,11 @@ My complete writing and publishing workflow looks like this:
 
 1. Create a new `.md` file
 2. Write the post
-3. Save the file and run the `hugo` command to regenerate the website
-4. Push the code to my repo, which triggers an automatic build with my hosting provider
+3. Save the file and run `hugo && netlify deploy` CLI commands to regenerate and view a preview version of the site
+4. Once happy, run `netlify deploy --prod` 
 6. Bam 💥 We’re live! 🚀
+
+
 
 
 
