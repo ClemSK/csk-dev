@@ -2,19 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://clem-sk.dev/tags/debugging/</loc>
+    <lastmod>2024-04-25T08:21:24+01:00</lastmod>
+  </url><url>
+    <loc>https://clem-sk.dev/posts/debugging-in-production/</loc>
+    <lastmod>2024-04-25T08:21:24+01:00</lastmod>
+  </url><url>
     <loc>https://clem-sk.dev/</loc>
-    <lastmod>2024-02-14T09:06:35+00:00</lastmod>
+    <lastmod>2024-04-25T08:21:24+01:00</lastmod>
+  </url><url>
+    <loc>https://clem-sk.dev/posts/</loc>
+    <lastmod>2024-04-25T08:21:24+01:00</lastmod>
+  </url><url>
+    <loc>https://clem-sk.dev/tags/rethinking/</loc>
+    <lastmod>2024-04-25T08:21:24+01:00</lastmod>
+  </url><url>
+    <loc>https://clem-sk.dev/tags/</loc>
+    <lastmod>2024-04-25T08:21:24+01:00</lastmod>
+  </url><url>
+    <loc>https://clem-sk.dev/tags/communication/</loc>
+    <lastmod>2024-04-24T22:31:31+01:00</lastmod>
+  </url><url>
+    <loc>https://clem-sk.dev/posts/cursed-dev-words/</loc>
+    <lastmod>2024-04-24T22:31:31+01:00</lastmod>
+  </url><url>
+    <loc>https://clem-sk.dev/tags/development/</loc>
+    <lastmod>2024-04-24T22:31:31+01:00</lastmod>
   </url><url>
     <loc>https://clem-sk.dev/posts/img-size-in-md/</loc>
     <lastmod>2024-02-14T09:06:35+00:00</lastmod>
   </url><url>
-    <loc>https://clem-sk.dev/posts/</loc>
-    <lastmod>2024-02-14T09:06:35+00:00</lastmod>
-  </url><url>
     <loc>https://clem-sk.dev/tags/styles/</loc>
-    <lastmod>2024-02-14T09:06:35+00:00</lastmod>
-  </url><url>
-    <loc>https://clem-sk.dev/tags/</loc>
     <lastmod>2024-02-14T09:06:35+00:00</lastmod>
   </url><url>
     <loc>https://clem-sk.dev/tags/writing/</loc>

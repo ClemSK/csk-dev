@@ -6,8 +6,26 @@
     <description>Recent content in Home on Clem SK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Wed, 14 Feb 2024 09:06:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 08:21:24 +0100</lastBuildDate>
     <atom:link href="https://clem-sk.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Debugging in Production</title>
+      <link>https://clem-sk.dev/posts/debugging-in-production/</link>
+      <pubDate>Thu, 25 Apr 2024 08:21:24 +0100</pubDate>
+      <guid>https://clem-sk.dev/posts/debugging-in-production/</guid>
+      <description>Challenge: for a week, don&amp;rsquo;t use a debugger and only use the tools you can use to debug in production.
+What did you notice? What workflow changes did you make to get to the same level of productivity as before? Why abandon the debugger? The debugger has it&amp;rsquo;s place, but it can be a crutch to crafting well-thought-out software.
+As useful a tool as the debugger is, not being able to use a debugger reveals a lot about coding practices and processes.</description>
+    </item>
+    <item>
+      <title>Cursed Dev Words</title>
+      <link>https://clem-sk.dev/posts/cursed-dev-words/</link>
+      <pubDate>Wed, 24 Apr 2024 22:31:31 +0100</pubDate>
+      <guid>https://clem-sk.dev/posts/cursed-dev-words/</guid>
+      <description>When developing there are words that are ambiguous when describing a problem.
+One of my pet peeves is when I hear someone say these cursed words: &amp;lsquo;it was working&amp;rsquo;
+The problem is that it&amp;rsquo;s fuzzy and does not help identify causes. Logically it&amp;rsquo;s simplistic - yes, in the last PR is was probably working and now with the new PR it&amp;rsquo;s broken. It should be expected that over time enough code changes will cause breakages.</description>
+    </item>
     <item>
       <title>Img Size in Md</title>
       <link>https://clem-sk.dev/posts/img-size-in-md/</link>

@@ -1,0 +1,11 @@
+List of tags: 
+- deployments
+- scraping
+- property data
+- data viz
+- shell
+- cli tools
+- diagrams
+- mermaid 
+- styles
+- writing
