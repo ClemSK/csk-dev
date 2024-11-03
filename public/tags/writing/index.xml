@@ -13,18 +13,21 @@
       <link>https://clem-sk.dev/posts/img-size-in-md/</link>
       <pubDate>Wed, 14 Feb 2024 09:06:35 +0000</pubDate>
       <guid>https://clem-sk.dev/posts/img-size-in-md/</guid>
-      <description>Styling images in markdown I&amp;rsquo;ll refer to the StackOverflow answer on changing image size in md.
-The simplest and dependency free method is just to use a CSS selector to style the image.
-This removes the need for markdown processors that would (with more code) end up in the same place.
-In Hugo this would mean adding the styles to the assets folder and writing them up this way: img[alt=drawing] { width: 200px; }.</description>
+      <description>&lt;h1 id=&#34;styling-images-in-markdown&#34;&gt;Styling images in markdown&lt;/h1&gt;
+&lt;p&gt;I&amp;rsquo;ll refer to the StackOverflow answer on &lt;a href=&#34;https://stackoverflow.com/questions/14675913/changing-image-size-in-markdown&#34;&gt;changing image size in &lt;code&gt;md&lt;/code&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The simplest and dependency free method is just to use a CSS selector to style the image.&lt;/p&gt;
+&lt;p&gt;This removes the need for markdown processors that would (with more code) end up in the same place.&lt;/p&gt;
+&lt;p&gt;In Hugo this would mean adding the styles to the &lt;code&gt;assets&lt;/code&gt; folder and writing them up this way: &lt;code&gt;img[alt=drawing] { width: 200px; }&lt;/code&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Writing Process</title>
       <link>https://clem-sk.dev/posts/writing-process/</link>
       <pubDate>Wed, 14 Feb 2024 08:24:15 +0000</pubDate>
       <guid>https://clem-sk.dev/posts/writing-process/</guid>
-      <description>How this blog is created Making it easy I have previously tried blogging but my biggest obstacle was actually platforms used for blogging. Before knowing how to code, I formerly had a WordPress blog that I barely used. While I would write in my note-taking app, I found the publishing process a pain which led me to write privately as an outlet.
-The biggest obstacle to keeping a blog is ease of getting stuff from thought to the internet.</description>
+      <description>&lt;h1 id=&#34;how-this-blog-is-created&#34;&gt;How this blog is created&lt;/h1&gt;
+&lt;h3 id=&#34;making-it-easy&#34;&gt;Making it easy&lt;/h3&gt;
+&lt;p&gt;I have previously tried blogging but my biggest obstacle was actually platforms used for blogging. Before knowing how to code, I formerly had a WordPress blog that I barely used. While I would write in my note-taking app, I found the publishing process a pain which led me to write privately as an outlet.&lt;/p&gt;
+&lt;p&gt;The biggest obstacle to keeping a blog is ease of getting stuff from thought to the internet. It should easy: Write in markdown, make the PR and deploy automagically.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

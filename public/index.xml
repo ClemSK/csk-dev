@@ -6,62 +6,122 @@
     <description>Recent content in Home on Clem SK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Thu, 25 Apr 2024 08:21:24 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 03 Nov 2024 15:02:13 +0000</lastBuildDate>
     <atom:link href="https://clem-sk.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Boldness</title>
+      <link>https://clem-sk.dev/posts/boldness/</link>
+      <pubDate>Tue, 03 Sep 2024 20:42:17 +0100</pubDate>
+      <guid>https://clem-sk.dev/posts/boldness/</guid>
+      <description>&lt;p&gt;Reading a couple of books on launching products made me think about boldness.&lt;/p&gt;
+&lt;p&gt;Learnt or innate, sometimes the difference between starting, permission, adventure, change and possibility is boldness.&lt;/p&gt;
+&lt;p&gt;Some wonder, think, turn over, want to have others make decisions for them or are paralysed by in action to make a decision.&lt;/p&gt;
+&lt;p&gt;I believe the main factor of change is boldness. It leads you to launch yourself in a direction that is only partly known, where the path is lit by a torch beam.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Solo Dev Workflow</title>
+      <link>https://clem-sk.dev/posts/solo-dev-workflow/</link>
+      <pubDate>Tue, 03 Sep 2024 13:40:06 +0100</pubDate>
+      <guid>https://clem-sk.dev/posts/solo-dev-workflow/</guid>
+      <description>&lt;p&gt;Seems like on the socials people go over the top with &amp;rsquo;the BEST way to be productive is&amp;hellip;&amp;quot;.&lt;/p&gt;
+&lt;p&gt;In large groups, more complex systems arise depending on a project&amp;rsquo;s needs. However, working alone frees me up to get things very lean.&lt;/p&gt;
+&lt;p&gt;The reality is that 6 things are needed to ship a project:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Todo app (Todoist): Kanban board with project tasks + notes&lt;/li&gt;
+&lt;li&gt;Calendar (Apple Calendar)&lt;/li&gt;
+&lt;li&gt;Notes app (Obsidian / Apple Notes - previously used Evernote and Notion): Thoughts + resources + diagrams + documentation&lt;/li&gt;
+&lt;li&gt;Email client (Apple Mail / Gmail web)&lt;/li&gt;
+&lt;li&gt;Code editor + terminal (VS Code)&lt;/li&gt;
+&lt;li&gt;Browser (Firefox developer edition)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Tools come and go, I prefer to use a system like &lt;a href=&#34;https://gettingthingsdone.com/what-is-gtd/&#34;&gt;Getting Things Done (GTD)&lt;/a&gt; to stay organised and &lt;a href=&#34;https://basecamp.com/shapeup/0.3-chapter-01&#34;&gt;Shape-up&lt;/a&gt; as a development framework.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Debugging in Production</title>
       <link>https://clem-sk.dev/posts/debugging-in-production/</link>
       <pubDate>Thu, 25 Apr 2024 08:21:24 +0100</pubDate>
       <guid>https://clem-sk.dev/posts/debugging-in-production/</guid>
-      <description>Challenge: for a week, don&amp;rsquo;t use a debugger and only use the tools you can use to debug in production.
-What did you notice? What workflow changes did you make to get to the same level of productivity as before? Why abandon the debugger? The debugger has it&amp;rsquo;s place, but it can be a crutch to crafting well-thought-out software.
-As useful a tool as the debugger is, not being able to use a debugger reveals a lot about coding practices and processes.</description>
+      <description>&lt;p&gt;&lt;strong&gt;Challenge: for a week, don&amp;rsquo;t use a debugger and only use the tools you can use to debug in production.&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;What did you notice?&lt;/li&gt;
+&lt;li&gt;What workflow changes did you make to get to the same level of productivity as before?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;why-abandon-the-debugger&#34;&gt;Why abandon the debugger?&lt;/h3&gt;
+&lt;p&gt;The debugger has it&amp;rsquo;s place, but it can be a crutch to crafting well-thought-out software.&lt;/p&gt;
+&lt;p&gt;As useful a tool as the debugger is, not being able to use a debugger reveals a lot about coding practices and processes.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Cursed Dev Words</title>
       <link>https://clem-sk.dev/posts/cursed-dev-words/</link>
       <pubDate>Wed, 24 Apr 2024 22:31:31 +0100</pubDate>
       <guid>https://clem-sk.dev/posts/cursed-dev-words/</guid>
-      <description>When developing there are words that are ambiguous when describing a problem.
-One of my pet peeves is when I hear someone say these cursed words: &amp;lsquo;it was working&amp;rsquo;
-The problem is that it&amp;rsquo;s fuzzy and does not help identify causes. Logically it&amp;rsquo;s simplistic - yes, in the last PR is was probably working and now with the new PR it&amp;rsquo;s broken. It should be expected that over time enough code changes will cause breakages.</description>
+      <description>&lt;p&gt;When developing there are words that are ambiguous when describing a problem.&lt;/p&gt;
+&lt;p&gt;One of my pet peeves is when I hear someone say these cursed words: &lt;em&gt;&amp;lsquo;it was working&amp;rsquo;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The problem is that it&amp;rsquo;s fuzzy and does not help identify causes. Logically it&amp;rsquo;s simplistic - yes, in the last PR is was probably working and now with the new PR it&amp;rsquo;s broken. It should be expected that over time enough code changes will cause breakages.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Img Size in Md</title>
       <link>https://clem-sk.dev/posts/img-size-in-md/</link>
       <pubDate>Wed, 14 Feb 2024 09:06:35 +0000</pubDate>
       <guid>https://clem-sk.dev/posts/img-size-in-md/</guid>
-      <description>Styling images in markdown I&amp;rsquo;ll refer to the StackOverflow answer on changing image size in md.
-The simplest and dependency free method is just to use a CSS selector to style the image.
-This removes the need for markdown processors that would (with more code) end up in the same place.
-In Hugo this would mean adding the styles to the assets folder and writing them up this way: img[alt=drawing] { width: 200px; }.</description>
+      <description>&lt;h1 id=&#34;styling-images-in-markdown&#34;&gt;Styling images in markdown&lt;/h1&gt;
+&lt;p&gt;I&amp;rsquo;ll refer to the StackOverflow answer on &lt;a href=&#34;https://stackoverflow.com/questions/14675913/changing-image-size-in-markdown&#34;&gt;changing image size in &lt;code&gt;md&lt;/code&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The simplest and dependency free method is just to use a CSS selector to style the image.&lt;/p&gt;
+&lt;p&gt;This removes the need for markdown processors that would (with more code) end up in the same place.&lt;/p&gt;
+&lt;p&gt;In Hugo this would mean adding the styles to the &lt;code&gt;assets&lt;/code&gt; folder and writing them up this way: &lt;code&gt;img[alt=drawing] { width: 200px; }&lt;/code&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Writing Process</title>
       <link>https://clem-sk.dev/posts/writing-process/</link>
       <pubDate>Wed, 14 Feb 2024 08:24:15 +0000</pubDate>
       <guid>https://clem-sk.dev/posts/writing-process/</guid>
-      <description>How this blog is created Making it easy I have previously tried blogging but my biggest obstacle was actually platforms used for blogging. Before knowing how to code, I formerly had a WordPress blog that I barely used. While I would write in my note-taking app, I found the publishing process a pain which led me to write privately as an outlet.
-The biggest obstacle to keeping a blog is ease of getting stuff from thought to the internet.</description>
+      <description>&lt;h1 id=&#34;how-this-blog-is-created&#34;&gt;How this blog is created&lt;/h1&gt;
+&lt;h3 id=&#34;making-it-easy&#34;&gt;Making it easy&lt;/h3&gt;
+&lt;p&gt;I have previously tried blogging but my biggest obstacle was actually platforms used for blogging. Before knowing how to code, I formerly had a WordPress blog that I barely used. While I would write in my note-taking app, I found the publishing process a pain which led me to write privately as an outlet.&lt;/p&gt;
+&lt;p&gt;The biggest obstacle to keeping a blog is ease of getting stuff from thought to the internet. It should easy: Write in markdown, make the PR and deploy automagically.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Using Mermaid With Hugo</title>
       <link>https://clem-sk.dev/posts/using-mermaid-with-hugo/</link>
       <pubDate>Tue, 06 Feb 2024 08:35:09 +0000</pubDate>
       <guid>https://clem-sk.dev/posts/using-mermaid-with-hugo/</guid>
-      <description>Main steps Create a layout Adding Mermaid to a content template Maintaining content and theme styles Rendering an example diagram Mermaid diagram This post outlines how to add Mermaid support with Hugo to render the diagram below, as I found the docs a bit lacking.
-When pasting, make sure to move the closing code fence to a new line to see the diagram
-```mermaid sequenceDiagram participant Alice participant Bob Alice-&amp;gt;&amp;gt;John: Hello John, how are you?</description>
+      <description>&lt;h3 id=&#34;main-steps&#34;&gt;Main steps&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Create a layout&lt;/li&gt;
+&lt;li&gt;Adding Mermaid to a content template&lt;/li&gt;
+&lt;li&gt;Maintaining content and theme styles&lt;/li&gt;
+&lt;li&gt;Rendering an example diagram&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;mermaid-diagram&#34;&gt;Mermaid diagram&lt;/h3&gt;
+&lt;p&gt;This post outlines how to add Mermaid support with Hugo to render the diagram below, as I found the docs a bit lacking.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;When pasting, make sure to move the closing code fence to a new line to see the diagram&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;```mermaid
+sequenceDiagram
+    participant Alice
+    participant Bob
+    Alice-&amp;gt;&amp;gt;John: Hello John, how are you?
+    loop Healthcheck
+        John-&amp;gt;&amp;gt;John: Fight against hypochondria
+    end
+    Note right of John: Rational thoughts &amp;lt;br/&amp;gt;prevail!
+    John--&amp;gt;&amp;gt;Alice: Great!
+    John-&amp;gt;&amp;gt;Bob: How about you?
+    Bob--&amp;gt;&amp;gt;John: Jolly good!```
+&lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&#34;creating-a-layout&#34;&gt;Creating a layout&lt;/h3&gt;
+&lt;p&gt;While Mermaid markdown diagrams aren&amp;rsquo;t supported natively by Hugo, it&amp;rsquo;s easy to add.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Welcome!</title>
       <link>https://clem-sk.dev/aboutme/</link>
       <pubDate>Sat, 03 Feb 2024 21:14:55 +0000</pubDate>
       <guid>https://clem-sk.dev/aboutme/</guid>
-      <description>Why keep a personal site? Why not just write on social media?
-Personal sites offer a valuable space for self-expression and growth, distinct though not a social-media replacement. The process to publish is as simple as I could make it, leaving more room to think in long-form and do.
-I hope for discoveries and personal growth - this is my space to be curious, intentional, and hit publish.
-External brain I write to think, remember, explain to myself and others - in other words learn in public.</description>
+      <description>&lt;p&gt;Why keep a personal site? Why not just write on social media?&lt;/p&gt;
+&lt;p&gt;Personal sites offer a valuable space for self-expression and growth, distinct though not a social-media replacement. The process to publish is as simple as I could make it, leaving more room to think in long-form and do.&lt;/p&gt;
+&lt;p&gt;I hope for discoveries and personal growth - this is my space to be curious, intentional, and hit publish.&lt;/p&gt;
+&lt;h2 id=&#34;external-brain&#34;&gt;External brain&lt;/h2&gt;
+&lt;p&gt;I write to think, remember, explain to myself and others - in other words &lt;a href=&#34;https://www.swyx.io/learn-in-public&#34;&gt;learn in public&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

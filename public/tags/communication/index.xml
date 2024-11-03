@@ -13,9 +13,9 @@
       <link>https://clem-sk.dev/posts/cursed-dev-words/</link>
       <pubDate>Wed, 24 Apr 2024 22:31:31 +0100</pubDate>
       <guid>https://clem-sk.dev/posts/cursed-dev-words/</guid>
-      <description>When developing there are words that are ambiguous when describing a problem.
-One of my pet peeves is when I hear someone say these cursed words: &amp;lsquo;it was working&amp;rsquo;
-The problem is that it&amp;rsquo;s fuzzy and does not help identify causes. Logically it&amp;rsquo;s simplistic - yes, in the last PR is was probably working and now with the new PR it&amp;rsquo;s broken. It should be expected that over time enough code changes will cause breakages.</description>
+      <description>&lt;p&gt;When developing there are words that are ambiguous when describing a problem.&lt;/p&gt;
+&lt;p&gt;One of my pet peeves is when I hear someone say these cursed words: &lt;em&gt;&amp;lsquo;it was working&amp;rsquo;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The problem is that it&amp;rsquo;s fuzzy and does not help identify causes. Logically it&amp;rsquo;s simplistic - yes, in the last PR is was probably working and now with the new PR it&amp;rsquo;s broken. It should be expected that over time enough code changes will cause breakages.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

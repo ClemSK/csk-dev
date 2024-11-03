@@ -13,9 +13,14 @@
       <link>https://clem-sk.dev/posts/debugging-in-production/</link>
       <pubDate>Thu, 25 Apr 2024 08:21:24 +0100</pubDate>
       <guid>https://clem-sk.dev/posts/debugging-in-production/</guid>
-      <description>Challenge: for a week, don&amp;rsquo;t use a debugger and only use the tools you can use to debug in production.
-What did you notice? What workflow changes did you make to get to the same level of productivity as before? Why abandon the debugger? The debugger has it&amp;rsquo;s place, but it can be a crutch to crafting well-thought-out software.
-As useful a tool as the debugger is, not being able to use a debugger reveals a lot about coding practices and processes.</description>
+      <description>&lt;p&gt;&lt;strong&gt;Challenge: for a week, don&amp;rsquo;t use a debugger and only use the tools you can use to debug in production.&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;What did you notice?&lt;/li&gt;
+&lt;li&gt;What workflow changes did you make to get to the same level of productivity as before?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;why-abandon-the-debugger&#34;&gt;Why abandon the debugger?&lt;/h3&gt;
+&lt;p&gt;The debugger has it&amp;rsquo;s place, but it can be a crutch to crafting well-thought-out software.&lt;/p&gt;
+&lt;p&gt;As useful a tool as the debugger is, not being able to use a debugger reveals a lot about coding practices and processes.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -13,9 +13,32 @@
       <link>https://clem-sk.dev/posts/using-mermaid-with-hugo/</link>
       <pubDate>Tue, 06 Feb 2024 08:35:09 +0000</pubDate>
       <guid>https://clem-sk.dev/posts/using-mermaid-with-hugo/</guid>
-      <description>Main steps Create a layout Adding Mermaid to a content template Maintaining content and theme styles Rendering an example diagram Mermaid diagram This post outlines how to add Mermaid support with Hugo to render the diagram below, as I found the docs a bit lacking.
-When pasting, make sure to move the closing code fence to a new line to see the diagram
-```mermaid sequenceDiagram participant Alice participant Bob Alice-&amp;gt;&amp;gt;John: Hello John, how are you?</description>
+      <description>&lt;h3 id=&#34;main-steps&#34;&gt;Main steps&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Create a layout&lt;/li&gt;
+&lt;li&gt;Adding Mermaid to a content template&lt;/li&gt;
+&lt;li&gt;Maintaining content and theme styles&lt;/li&gt;
+&lt;li&gt;Rendering an example diagram&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;mermaid-diagram&#34;&gt;Mermaid diagram&lt;/h3&gt;
+&lt;p&gt;This post outlines how to add Mermaid support with Hugo to render the diagram below, as I found the docs a bit lacking.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;When pasting, make sure to move the closing code fence to a new line to see the diagram&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;```mermaid
+sequenceDiagram
+    participant Alice
+    participant Bob
+    Alice-&amp;gt;&amp;gt;John: Hello John, how are you?
+    loop Healthcheck
+        John-&amp;gt;&amp;gt;John: Fight against hypochondria
+    end
+    Note right of John: Rational thoughts &amp;lt;br/&amp;gt;prevail!
+    John--&amp;gt;&amp;gt;Alice: Great!
+    John-&amp;gt;&amp;gt;Bob: How about you?
+    Bob--&amp;gt;&amp;gt;John: Jolly good!```
+&lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&#34;creating-a-layout&#34;&gt;Creating a layout&lt;/h3&gt;
+&lt;p&gt;While Mermaid markdown diagrams aren&amp;rsquo;t supported natively by Hugo, it&amp;rsquo;s easy to add.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

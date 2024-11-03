@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Solo Dev on Clem SK</title>
+    <link>https://clem-sk.dev/tags/solo-dev/</link>
+    <description>Recent content in Solo Dev on Clem SK</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Tue, 03 Sep 2024 13:40:06 +0100</lastBuildDate>
+    <atom:link href="https://clem-sk.dev/tags/solo-dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Solo Dev Workflow</title>
+      <link>https://clem-sk.dev/posts/solo-dev-workflow/</link>
+      <pubDate>Tue, 03 Sep 2024 13:40:06 +0100</pubDate>
+      <guid>https://clem-sk.dev/posts/solo-dev-workflow/</guid>
+      <description>&lt;p&gt;Seems like on the socials people go over the top with &amp;rsquo;the BEST way to be productive is&amp;hellip;&amp;quot;.&lt;/p&gt;
+&lt;p&gt;In large groups, more complex systems arise depending on a project&amp;rsquo;s needs. However, working alone frees me up to get things very lean.&lt;/p&gt;
+&lt;p&gt;The reality is that 6 things are needed to ship a project:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Todo app (Todoist): Kanban board with project tasks + notes&lt;/li&gt;
+&lt;li&gt;Calendar (Apple Calendar)&lt;/li&gt;
+&lt;li&gt;Notes app (Obsidian / Apple Notes - previously used Evernote and Notion): Thoughts + resources + diagrams + documentation&lt;/li&gt;
+&lt;li&gt;Email client (Apple Mail / Gmail web)&lt;/li&gt;
+&lt;li&gt;Code editor + terminal (VS Code)&lt;/li&gt;
+&lt;li&gt;Browser (Firefox developer edition)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Tools come and go, I prefer to use a system like &lt;a href=&#34;https://gettingthingsdone.com/what-is-gtd/&#34;&gt;Getting Things Done (GTD)&lt;/a&gt; to stay organised and &lt;a href=&#34;https://basecamp.com/shapeup/0.3-chapter-01&#34;&gt;Shape-up&lt;/a&gt; as a development framework.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

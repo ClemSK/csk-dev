@@ -2,22 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://clem-sk.dev/</loc>
+    <lastmod>2024-11-03T15:02:13+00:00</lastmod>
+  </url><url>
+    <loc>https://clem-sk.dev/posts/</loc>
+    <lastmod>2024-11-03T15:02:13+00:00</lastmod>
+  </url><url>
+    <loc>https://clem-sk.dev/tags/boldness/</loc>
+    <lastmod>2024-09-03T20:42:17+01:00</lastmod>
+  </url><url>
+    <loc>https://clem-sk.dev/posts/boldness/</loc>
+    <lastmod>2024-09-03T20:42:17+01:00</lastmod>
+  </url><url>
+    <loc>https://clem-sk.dev/tags/motivation/</loc>
+    <lastmod>2024-09-03T20:42:17+01:00</lastmod>
+  </url><url>
+    <loc>https://clem-sk.dev/tags/starting/</loc>
+    <lastmod>2024-09-03T20:42:17+01:00</lastmod>
+  </url><url>
+    <loc>https://clem-sk.dev/tags/</loc>
+    <lastmod>2024-09-03T20:42:17+01:00</lastmod>
+  </url><url>
+    <loc>https://clem-sk.dev/tags/productivity/</loc>
+    <lastmod>2024-09-03T13:40:06+01:00</lastmod>
+  </url><url>
+    <loc>https://clem-sk.dev/tags/projects/</loc>
+    <lastmod>2024-09-03T13:40:06+01:00</lastmod>
+  </url><url>
+    <loc>https://clem-sk.dev/tags/solo-dev/</loc>
+    <lastmod>2024-09-03T13:40:06+01:00</lastmod>
+  </url><url>
+    <loc>https://clem-sk.dev/posts/solo-dev-workflow/</loc>
+    <lastmod>2024-09-03T13:40:06+01:00</lastmod>
+  </url><url>
     <loc>https://clem-sk.dev/tags/debugging/</loc>
     <lastmod>2024-04-25T08:21:24+01:00</lastmod>
   </url><url>
     <loc>https://clem-sk.dev/posts/debugging-in-production/</loc>
     <lastmod>2024-04-25T08:21:24+01:00</lastmod>
   </url><url>
-    <loc>https://clem-sk.dev/</loc>
-    <lastmod>2024-04-25T08:21:24+01:00</lastmod>
-  </url><url>
-    <loc>https://clem-sk.dev/posts/</loc>
-    <lastmod>2024-04-25T08:21:24+01:00</lastmod>
-  </url><url>
     <loc>https://clem-sk.dev/tags/rethinking/</loc>
-    <lastmod>2024-04-25T08:21:24+01:00</lastmod>
-  </url><url>
-    <loc>https://clem-sk.dev/tags/</loc>
     <lastmod>2024-04-25T08:21:24+01:00</lastmod>
   </url><url>
     <loc>https://clem-sk.dev/tags/communication/</loc>
