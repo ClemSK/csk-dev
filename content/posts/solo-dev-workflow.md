@@ -19,7 +19,7 @@ The reality is that 6 things are needed to ship a project:
 - Notes app (Obsidian / Apple Notes - previously used Evernote and Notion): Thoughts + resources + diagrams + documentation
 - Email client (Apple Mail / Gmail web)
 - Code editor + terminal (VS Code)
-- Browser (Firefox developer edition)
+- Browser (Edge ...on Mac!)
 
 Tools come and go, I prefer to use a system like [Getting Things Done (GTD)](https://gettingthingsdone.com/what-is-gtd/) to stay organised and [Shape-up](https://basecamp.com/shapeup/0.3-chapter-01) as a development framework.
 

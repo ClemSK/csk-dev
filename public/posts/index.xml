@@ -6,8 +6,28 @@
     <description>Recent content in Posts on Clem SK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Sun, 17 Nov 2024 12:26:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Apr 2025 16:38:02 +0100</lastBuildDate>
     <atom:link href="https://clem-sk.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linking Sendgrid and Cloudflare DNS</title>
+      <link>https://clem-sk.dev/posts/linking-sendgrid-and-cloudflare-dns/</link>
+      <pubDate>Sat, 19 Apr 2025 16:38:02 +0100</pubDate>
+      <guid>https://clem-sk.dev/posts/linking-sendgrid-and-cloudflare-dns/</guid>
+      <description>&lt;p&gt;For this to make sense, I&amp;rsquo;m assuming that you have accounts with both &lt;code&gt;Cloudflare&lt;/code&gt; as your DNS provider and &lt;code&gt;SendGrid&lt;/code&gt; as your email provider. If not, hopefully some of this translates or is food for thought.&lt;/p&gt;
+&lt;p&gt;This was honestly a pain in the arse, mostly because of the feedback loops for seeing if DNS has worked is measured in &lt;em&gt;days&lt;/em&gt; and there are no good error messages other than &amp;rsquo;not working&amp;rsquo; in SendGrid. This leaves you guessing and trawling the internet for things to try to get it working.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Launching a Site</title>
+      <link>https://clem-sk.dev/posts/launching-a-site/</link>
+      <pubDate>Sun, 05 Jan 2025 11:17:51 +0000</pubDate>
+      <guid>https://clem-sk.dev/posts/launching-a-site/</guid>
+      <description>&lt;p&gt;Yesterday &lt;a href=&#34;https://london-property-pulse.com&#34;&gt;London Property Pulse&lt;/a&gt; went live. Launching is a euphoric and satisfying moment where you feel &amp;lsquo;Hooray, I&amp;rsquo;m on the Internet 🎉&amp;rsquo;!&lt;/p&gt;
+&lt;p&gt;Here&amp;rsquo;s to launching early 🍻&lt;/p&gt;
+&lt;p&gt;The site is definitely far from ready, with bare-bone BE and FE but this way I can see how my changes affect the site&amp;rsquo;s performance and build in public. It also helps my motivation: now it&amp;rsquo;s real and in the world 🌍.&lt;/p&gt;
+&lt;h2 id=&#34;learnings&#34;&gt;Learnings&lt;/h2&gt;
+&lt;h3 id=&#34;getting-familiar-with-linux&#34;&gt;Getting familiar with Linux&lt;/h3&gt;
+&lt;p&gt;I&amp;rsquo;m trying something new by hosting on a virtual private server (VPS) - aka Linux box in the cloud - and had a few things to learn along the way but got there in about a day. While I&amp;rsquo;m familiar with unix environments, working without the bells and whistles of my comfy and configured environment was a bit of a shock but relatively easy to work.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Boldness</title>
       <link>https://clem-sk.dev/posts/boldness/</link>
@@ -32,7 +52,7 @@
 &lt;li&gt;Notes app (Obsidian / Apple Notes - previously used Evernote and Notion): Thoughts + resources + diagrams + documentation&lt;/li&gt;
 &lt;li&gt;Email client (Apple Mail / Gmail web)&lt;/li&gt;
 &lt;li&gt;Code editor + terminal (VS Code)&lt;/li&gt;
-&lt;li&gt;Browser (Firefox developer edition)&lt;/li&gt;
+&lt;li&gt;Browser (Edge &amp;hellip;on Mac!)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Tools come and go, I prefer to use a system like &lt;a href=&#34;https://gettingthingsdone.com/what-is-gtd/&#34;&gt;Getting Things Done (GTD)&lt;/a&gt; to stay organised and &lt;a href=&#34;https://basecamp.com/shapeup/0.3-chapter-01&#34;&gt;Shape-up&lt;/a&gt; as a development framework.&lt;/p&gt;</description>
     </item>

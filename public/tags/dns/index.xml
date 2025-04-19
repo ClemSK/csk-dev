@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Dns on Clem SK</title>
+    <link>https://clem-sk.dev/tags/dns/</link>
+    <description>Recent content in Dns on Clem SK</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Sat, 19 Apr 2025 16:38:02 +0100</lastBuildDate>
+    <atom:link href="https://clem-sk.dev/tags/dns/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linking Sendgrid and Cloudflare DNS</title>
+      <link>https://clem-sk.dev/posts/linking-sendgrid-and-cloudflare-dns/</link>
+      <pubDate>Sat, 19 Apr 2025 16:38:02 +0100</pubDate>
+      <guid>https://clem-sk.dev/posts/linking-sendgrid-and-cloudflare-dns/</guid>
+      <description>&lt;p&gt;For this to make sense, I&amp;rsquo;m assuming that you have accounts with both &lt;code&gt;Cloudflare&lt;/code&gt; as your DNS provider and &lt;code&gt;SendGrid&lt;/code&gt; as your email provider. If not, hopefully some of this translates or is food for thought.&lt;/p&gt;
+&lt;p&gt;This was honestly a pain in the arse, mostly because of the feedback loops for seeing if DNS has worked is measured in &lt;em&gt;days&lt;/em&gt; and there are no good error messages other than &amp;rsquo;not working&amp;rsquo; in SendGrid. This leaves you guessing and trawling the internet for things to try to get it working.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Site on Clem SK</title>
+    <link>https://clem-sk.dev/tags/site/</link>
+    <description>Recent content in Site on Clem SK</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Sun, 05 Jan 2025 11:17:51 +0000</lastBuildDate>
+    <atom:link href="https://clem-sk.dev/tags/site/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Launching a Site</title>
+      <link>https://clem-sk.dev/posts/launching-a-site/</link>
+      <pubDate>Sun, 05 Jan 2025 11:17:51 +0000</pubDate>
+      <guid>https://clem-sk.dev/posts/launching-a-site/</guid>
+      <description>&lt;p&gt;Yesterday &lt;a href=&#34;https://london-property-pulse.com&#34;&gt;London Property Pulse&lt;/a&gt; went live. Launching is a euphoric and satisfying moment where you feel &amp;lsquo;Hooray, I&amp;rsquo;m on the Internet 🎉&amp;rsquo;!&lt;/p&gt;
+&lt;p&gt;Here&amp;rsquo;s to launching early 🍻&lt;/p&gt;
+&lt;p&gt;The site is definitely far from ready, with bare-bone BE and FE but this way I can see how my changes affect the site&amp;rsquo;s performance and build in public. It also helps my motivation: now it&amp;rsquo;s real and in the world 🌍.&lt;/p&gt;
+&lt;h2 id=&#34;learnings&#34;&gt;Learnings&lt;/h2&gt;
+&lt;h3 id=&#34;getting-familiar-with-linux&#34;&gt;Getting familiar with Linux&lt;/h3&gt;
+&lt;p&gt;I&amp;rsquo;m trying something new by hosting on a virtual private server (VPS) - aka Linux box in the cloud - and had a few things to learn along the way but got there in about a day. While I&amp;rsquo;m familiar with unix environments, working without the bells and whistles of my comfy and configured environment was a bit of a shock but relatively easy to work.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

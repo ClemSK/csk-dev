@@ -2,11 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://clem-sk.dev/tags/cloudflare/</loc>
+    <lastmod>2025-04-19T16:38:02+01:00</lastmod>
+  </url><url>
+    <loc>https://clem-sk.dev/tags/dns/</loc>
+    <lastmod>2025-04-19T16:38:02+01:00</lastmod>
+  </url><url>
+    <loc>https://clem-sk.dev/tags/email/</loc>
+    <lastmod>2025-04-19T16:38:02+01:00</lastmod>
+  </url><url>
     <loc>https://clem-sk.dev/</loc>
-    <lastmod>2024-11-17T12:26:00+00:00</lastmod>
+    <lastmod>2025-04-19T16:38:02+01:00</lastmod>
+  </url><url>
+    <loc>https://clem-sk.dev/posts/linking-sendgrid-and-cloudflare-dns/</loc>
+    <lastmod>2025-04-19T16:38:02+01:00</lastmod>
   </url><url>
     <loc>https://clem-sk.dev/posts/</loc>
-    <lastmod>2024-11-17T12:26:00+00:00</lastmod>
+    <lastmod>2025-04-19T16:38:02+01:00</lastmod>
+  </url><url>
+    <loc>https://clem-sk.dev/tags/sendgrid/</loc>
+    <lastmod>2025-04-19T16:38:02+01:00</lastmod>
+  </url><url>
+    <loc>https://clem-sk.dev/tags/</loc>
+    <lastmod>2025-04-19T16:38:02+01:00</lastmod>
+  </url><url>
+    <loc>https://clem-sk.dev/tags/launching/</loc>
+    <lastmod>2025-01-05T11:17:51+00:00</lastmod>
+  </url><url>
+    <loc>https://clem-sk.dev/posts/launching-a-site/</loc>
+    <lastmod>2025-01-05T11:17:51+00:00</lastmod>
+  </url><url>
+    <loc>https://clem-sk.dev/tags/mvp/</loc>
+    <lastmod>2025-01-05T11:17:51+00:00</lastmod>
+  </url><url>
+    <loc>https://clem-sk.dev/tags/site/</loc>
+    <lastmod>2025-01-05T11:17:51+00:00</lastmod>
   </url><url>
     <loc>https://clem-sk.dev/tags/boldness/</loc>
     <lastmod>2024-09-03T20:42:17+01:00</lastmod>
@@ -18,9 +48,6 @@
     <lastmod>2024-09-03T20:42:17+01:00</lastmod>
   </url><url>
     <loc>https://clem-sk.dev/tags/starting/</loc>
-    <lastmod>2024-09-03T20:42:17+01:00</lastmod>
-  </url><url>
-    <loc>https://clem-sk.dev/tags/</loc>
     <lastmod>2024-09-03T20:42:17+01:00</lastmod>
   </url><url>
     <loc>https://clem-sk.dev/tags/productivity/</loc>
