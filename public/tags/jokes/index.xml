@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Jokes on Clem SK</title>
+    <link>https://clem-sk.dev/tags/jokes/</link>
+    <description>Recent content in Jokes on Clem SK</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Wed, 07 May 2025 09:42:28 +0100</lastBuildDate>
+    <atom:link href="https://clem-sk.dev/tags/jokes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>When I Need a Laugh</title>
+      <link>https://clem-sk.dev/posts/when-i-need-a-laugh/</link>
+      <pubDate>Wed, 07 May 2025 09:42:28 +0100</pubDate>
+      <guid>https://clem-sk.dev/posts/when-i-need-a-laugh/</guid>
+      <description>&lt;p&gt;Life is hard and full of challenges so when I want an uncomplicated belly laugh, I just open up the &lt;code&gt;Gulf of Mexico&lt;/code&gt; programming language docs.&lt;/p&gt;
+&lt;p&gt;Here are some gems in the language:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Add pizzazz by ending each statement with an exclamation mark or three&lt;/li&gt;
+&lt;li&gt;Are keywords a problem? Delete them&lt;/li&gt;
+&lt;li&gt;Unsure? Use the boolean &lt;code&gt;maybe&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Text looking boring? Use rich-text (italics / bold / underline) to differentiate variables&lt;/li&gt;
+&lt;li&gt;Want to add &lt;code&gt;3 + four&lt;/code&gt;? No problem&lt;/li&gt;
+&lt;li&gt;Who needs loops?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;It&amp;rsquo;s a hilariously cursed language that should never be used in production, but I love that it exists!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -16,9 +16,10 @@ The reality is that 6 things are needed to ship a project:
 
 - Todo app (Todoist): Kanban board with project tasks + notes
 - Calendar (Apple Calendar)
-- Notes app (Obsidian / Apple Notes - previously used Evernote and Notion): Thoughts + resources + diagrams + documentation
+- Notes app (Obsidian + Excalidraw): Thoughts + resources + diagrams + documentation
 - Email client (Apple Mail / Gmail web)
-- Code editor + terminal (VS Code)
+- Code editor (VS Code)
+- Terminal (Ghostty) with [SeaShells theme](https://github.com/blinksh/themes?tab=readme-ov-file#seashells)
 - Browser (Edge ...on Mac!)
 
 Tools come and go, I prefer to use a system like [Getting Things Done (GTD)](https://gettingthingsdone.com/what-is-gtd/) to stay organised and [Shape-up](https://basecamp.com/shapeup/0.3-chapter-01) as a development framework.
@@ -33,3 +34,10 @@ The key aspects for me are:
   - Todo app with all calendars
 
 This setup enables me to be the most effective, capture inspiration, manage my time and ship.
+
+### Update: 26 November 2025
+Todoist Kanban was replaced by [YouTrack](https://www.jetbrains.com/youtrack/) by JetBrains as it combines spaces for documentation and tasks while also having a mobile app that allows me to manage tasks and docs on the go.
+
+VS Code was replaced by [Goland](https://www.jetbrains.com/go/) and [PyCharm](https://www.jetbrains.com/pycharm/) as my primary IDEs. This came after I've been using [Rider](https://www.jetbrains.com/rider/) as my primary IDE at work and wanted to use better tools when developing my side projects.
+
+My theme of choice in the JetBrains IDEs is the [Night Owl Material Theme](https://material-theme.com/) and when in VS Code, I use the [Night Owl](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl) plugin theme by Sarah Drasner. 

@@ -1,23 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Mental-Health on Clem SK</title>
+    <title>Mental Health on Clem SK</title>
     <link>https://clem-sk.dev/tags/mental-health/</link>
-    <description>Recent content in Mental-Health on Clem SK</description>
+    <description>Recent content in Mental Health on Clem SK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Sun, 17 Nov 2024 12:26:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Nov 2025 13:15:32 +0000</lastBuildDate>
     <atom:link href="https://clem-sk.dev/tags/mental-health/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>New Starts</title>
-      <link>https://clem-sk.dev/posts/new-starts/</link>
-      <pubDate>Sun, 17 Nov 2024 12:26:00 +0000</pubDate>
-      <guid>https://clem-sk.dev/posts/new-starts/</guid>
-      <description>&lt;h3 id=&#34;workplace-culture&#34;&gt;Workplace culture&lt;/h3&gt;
-&lt;h3 id=&#34;mental-health&#34;&gt;Mental health&lt;/h3&gt;
-&lt;h3 id=&#34;adapting-to-a-change-in-culture&#34;&gt;Adapting to a change in culture&lt;/h3&gt;
-&lt;h3 id=&#34;friendliness&#34;&gt;Friendliness&lt;/h3&gt;
-&lt;h3 id=&#34;in-office-vs-wfh&#34;&gt;In-office vs WFH&lt;/h3&gt;</description>
+      <title>Take Care of Yourself</title>
+      <link>https://clem-sk.dev/posts/take-care-of-yourself/</link>
+      <pubDate>Wed, 26 Nov 2025 13:15:32 +0000</pubDate>
+      <guid>https://clem-sk.dev/posts/take-care-of-yourself/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve not been myself recently, actually I felt quite depressed.&lt;/p&gt;
+&lt;p&gt;This is because I&amp;rsquo;ve been working through family issues which have led me to feel a lack of motivation and energy even
+for the things I enjoy.&lt;/p&gt;
+&lt;p&gt;This means that I&amp;rsquo;ve taken time off building side-projects like:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Job search AI: CV / Cover-letter / company research generation + clean-tech job site scraping / aggregation&lt;/li&gt;
+&lt;li&gt;London Property Pulse: property analytics site&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Take a moment, it&amp;rsquo;s about staying in the game and not burning-out.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

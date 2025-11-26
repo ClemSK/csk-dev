@@ -2,6 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://clem-sk.dev/</loc>
+    <lastmod>2025-11-26T13:15:32+00:00</lastmod>
+  </url><url>
+    <loc>https://clem-sk.dev/tags/mental-health/</loc>
+    <lastmod>2025-11-26T13:15:32+00:00</lastmod>
+  </url><url>
+    <loc>https://clem-sk.dev/posts/</loc>
+    <lastmod>2025-11-26T13:15:32+00:00</lastmod>
+  </url><url>
+    <loc>https://clem-sk.dev/tags/</loc>
+    <lastmod>2025-11-26T13:15:32+00:00</lastmod>
+  </url><url>
+    <loc>https://clem-sk.dev/posts/take-care-of-yourself/</loc>
+    <lastmod>2025-11-26T13:15:32+00:00</lastmod>
+  </url><url>
+    <loc>https://clem-sk.dev/tags/ai-and-society/</loc>
+    <lastmod>2025-07-14T19:45:05+01:00</lastmod>
+  </url><url>
+    <loc>https://clem-sk.dev/posts/big-shifts/</loc>
+    <lastmod>2025-07-14T19:45:05+01:00</lastmod>
+  </url><url>
+    <loc>https://clem-sk.dev/tags/tech-revolutions/</loc>
+    <lastmod>2025-07-14T19:45:05+01:00</lastmod>
+  </url><url>
+    <loc>https://clem-sk.dev/tags/deep-learning/</loc>
+    <lastmod>2025-07-09T09:24:10+01:00</lastmod>
+  </url><url>
+    <loc>https://clem-sk.dev/posts/deep-learning-for-coders/</loc>
+    <lastmod>2025-07-09T09:24:10+01:00</lastmod>
+  </url><url>
+    <loc>https://clem-sk.dev/tags/ml/</loc>
+    <lastmod>2025-07-09T09:24:10+01:00</lastmod>
+  </url><url>
+    <loc>https://clem-sk.dev/tags/python/</loc>
+    <lastmod>2025-07-09T09:24:10+01:00</lastmod>
+  </url><url>
+    <loc>https://clem-sk.dev/tags/jokes/</loc>
+    <lastmod>2025-05-07T09:42:28+01:00</lastmod>
+  </url><url>
+    <loc>https://clem-sk.dev/tags/programming-languages/</loc>
+    <lastmod>2025-05-07T09:42:28+01:00</lastmod>
+  </url><url>
+    <loc>https://clem-sk.dev/posts/when-i-need-a-laugh/</loc>
+    <lastmod>2025-05-07T09:42:28+01:00</lastmod>
+  </url><url>
     <loc>https://clem-sk.dev/tags/cloudflare/</loc>
     <lastmod>2025-04-19T16:38:02+01:00</lastmod>
   </url><url>
@@ -11,19 +56,10 @@
     <loc>https://clem-sk.dev/tags/email/</loc>
     <lastmod>2025-04-19T16:38:02+01:00</lastmod>
   </url><url>
-    <loc>https://clem-sk.dev/</loc>
-    <lastmod>2025-04-19T16:38:02+01:00</lastmod>
-  </url><url>
     <loc>https://clem-sk.dev/posts/linking-sendgrid-and-cloudflare-dns/</loc>
     <lastmod>2025-04-19T16:38:02+01:00</lastmod>
   </url><url>
-    <loc>https://clem-sk.dev/posts/</loc>
-    <lastmod>2025-04-19T16:38:02+01:00</lastmod>
-  </url><url>
     <loc>https://clem-sk.dev/tags/sendgrid/</loc>
-    <lastmod>2025-04-19T16:38:02+01:00</lastmod>
-  </url><url>
-    <loc>https://clem-sk.dev/tags/</loc>
     <lastmod>2025-04-19T16:38:02+01:00</lastmod>
   </url><url>
     <loc>https://clem-sk.dev/tags/launching/</loc>
